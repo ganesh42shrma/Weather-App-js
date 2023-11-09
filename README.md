@@ -12,10 +12,8 @@ Display: The app displays the city name, temperature, humidity, wind speed, and 
 
 Error Handling: If the entered city is not found, the app displays an error message.
 
-# Credits
-
+## Credits
 Weather icons sourced from OpenWeatherMap
 
-# License
-
+## License
 This project is licensed under the MIT License - see the LICENSE file for details
